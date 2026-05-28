@@ -1,1 +1,5 @@
-echo "MI PRIMER ARCHIVO DE PROPIEDADES" > product-service-desa.yml
+server:
+  port: 9001
+
+encrypt:
+  key: mitocode-secrets
